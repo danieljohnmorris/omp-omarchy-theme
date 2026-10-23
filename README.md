@@ -6,11 +6,11 @@ switches.
 
 <table>
   <tr>
-    <th width="50%">Wallhaven Gwq1w3</th>
+    <th width="50%">Custom</th>
     <th width="50%">Tokyo Night</th>
   </tr>
   <tr>
-    <td width="50%"><img src="assets/omarchy-theme.png" width="100%" alt="omp showing code, tool calls, an edit diff, shell output, and the home-directory composer in Omarchy's red Wallhaven Gwq1w3 theme"></td>
+    <td width="50%"><img src="assets/omarchy-theme.png" width="100%" alt="omp showing code, tool calls, an edit diff, shell output, and the home-directory composer in a custom red Omarchy theme"></td>
     <td width="50%"><img src="assets/tokyo-night.png" width="100%" alt="The same omp conversation and blocks in Omarchy's Tokyo Night theme"></td>
   </tr>
 </table>
