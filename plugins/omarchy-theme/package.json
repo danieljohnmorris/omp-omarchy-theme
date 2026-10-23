@@ -4,6 +4,11 @@
   "description": "Derive omp's TUI theme from the current Omarchy theme and follow Omarchy theme changes live.",
   "type": "module",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieljohnmorris/omp-omarchy-theme.git"
+  },
+  "homepage": "https://github.com/danieljohnmorris/omp-omarchy-theme#readme",
   "keywords": ["omp", "omarchy", "theme", "colors"],
   "omp": {
     "extensions": ["./src/index.ts"]

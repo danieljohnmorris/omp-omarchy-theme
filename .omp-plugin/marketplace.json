@@ -16,7 +16,9 @@
       "description": "Derive omp's TUI theme from the current Omarchy theme colors and follow theme changes live.",
       "category": "appearance",
       "version": "0.1.0",
-      "keywords": ["omarchy", "theme", "colors", "tui"]
+      "keywords": ["omarchy", "theme", "colors", "tui"],
+      "homepage": "https://github.com/danieljohnmorris/omp-omarchy-theme",
+      "repository": "https://github.com/danieljohnmorris/omp-omarchy-theme"
     }
   ]
 }

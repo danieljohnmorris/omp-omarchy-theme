@@ -15,7 +15,7 @@ omp.
 From the marketplace:
 
 ```bash
-omp plugin marketplace add dan/omp-omarchy-theme
+omp plugin marketplace add danieljohnmorris/omp-omarchy-theme
 omp plugin install omarchy-theme@omp-omarchy-theme
 ```
 
