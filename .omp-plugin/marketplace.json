@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "omp-omarchy-theme",
+  "owner": {
+    "name": "Dan"
+  },
+  "metadata": {
+    "description": "Plugins that make omp follow the Omarchy desktop",
+    "version": "0.1.0",
+    "pluginRoot": "plugins"
+  },
+  "plugins": [
+    {
+      "name": "omarchy-theme",
+      "source": "./omarchy-theme",
+      "description": "Derive omp's TUI theme from the current Omarchy theme colors and follow theme changes live.",
+      "category": "appearance",
+      "version": "0.1.0",
+      "keywords": ["omarchy", "theme", "colors", "tui"]
+    }
+  ]
+}

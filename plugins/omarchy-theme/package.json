@@ -1,0 +1,11 @@
+{
+  "name": "omp-omarchy-theme",
+  "version": "0.1.0",
+  "description": "Derive omp's TUI theme from the current Omarchy theme and follow Omarchy theme changes live.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["omp", "omarchy", "theme", "colors"],
+  "omp": {
+    "extensions": ["./src/index.ts"]
+  }
+}
